@@ -40,29 +40,12 @@ Pandas, NumPy
 
 Matplotlib, Seaborn
 
-🚀 How to Run
-Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/your-username/sentiment-analysis-nlp.git
 cd sentiment-analysis-nlp
 Install the required libraries:
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Launch the notebook:
 
-bash
-
-Copy
-
-Edit
-
-jupyter notebook Sentiment_Analysis_TFIDF_LogisticRegression.ipynb
 
 ✅ Sample Output
 Model Accuracy: ~90% (on small sample)
