@@ -13,6 +13,7 @@
 *MENTOR*: NEELA SANTOSH
 
 💬 Sentiment Analysis with NLP
+
 This project demonstrates how to perform Sentiment Analysis on customer reviews using Natural Language Processing (NLP) techniques. It uses TF-IDF Vectorization to convert text data into numerical features and applies Logistic Regression for classification.
 
 📂 Project Overview
