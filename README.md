@@ -57,9 +57,13 @@ pip install -r requirements.txt
 Launch the notebook:
 
 bash
+
 Copy
+
 Edit
+
 jupyter notebook Sentiment_Analysis_TFIDF_LogisticRegression.ipynb
+
 ✅ Sample Output
 Model Accuracy: ~90% (on small sample)
 The model effectively distinguishes positive and negative reviews with high precision.
